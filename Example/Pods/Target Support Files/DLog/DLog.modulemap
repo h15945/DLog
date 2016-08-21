@@ -1,0 +1,6 @@
+framework module DLog {
+  umbrella header "DLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

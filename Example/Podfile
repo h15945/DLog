@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLog_Example' do
+  pod 'DLog', :path => '../'
+
+  target 'DLog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

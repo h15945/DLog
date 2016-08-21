@@ -1,0 +1,31 @@
+{
+  "name": "DLog",
+  "version": "0.1.0",
+  "summary": "A short description of DLog.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/DLog",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "h15945": "953071808@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/DLog.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DLog/Classes/**/*",
+  "frameworks": [
+    "CFNetwork",
+    "Security"
+  ],
+  "dependencies": {
+    "SocketRocket": [
+
+    ]
+  }
+}

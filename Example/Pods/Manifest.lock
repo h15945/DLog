@@ -1,0 +1,19 @@
+PODS:
+  - DLog (0.1.0):
+    - SocketRocket
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - DLog (from `../`)
+
+EXTERNAL SOURCES:
+  DLog:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DLog: 65ca0c2cf49db73b56f976ce6bdc334bcf5d5a19
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: 97894f80524e141f0c2ef2113fcd866058282245
+
+COCOAPODS: 1.0.1
